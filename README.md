@@ -1,4 +1,4 @@
-# E-Commerce
+# FSW Barber
 
 - Stack Frontend Web: Next.js, TypeScript, Prisma, Postgres & Tailwind
 
